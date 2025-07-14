@@ -70,3 +70,10 @@ After saving your token:
   * GitHub: [Yuta Studios github](https://github.com/YutaStudios)
   * Chat Site: [Flux chat](https://fluxtemp.pages.dev)
  * Dedicated support: [Flux Support](https://fluxwiki.pages.dev/)
+
+
+## 📁 Install
+
+* As of now due to GitHub not letting us upload the file as it's too big we're using google drive!
+
+[Install](https://drive.google.com/drive/folders/1UghM_XDveN9RcAwmrf_AOnWlPt9CFDH6?usp=sharing)
