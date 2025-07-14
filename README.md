@@ -67,6 +67,6 @@ After saving your token:
 * Use the **Help & Support** button in the app.
 * Or visit:
 
-  * GitHub: [https://github.com/YutaStudios](https://github.com/YutaStudios)
-  * Chat Site: [https://fluxtemp.pages.dev](https://fluxtemp.pages.dev)
-
+  * GitHub: [Yuta Studios github](https://github.com/YutaStudios)
+  * Chat Site: [Flux chat](https://fluxtemp.pages.dev)
+ * Dedicated support: [Flux Support](https://fluxwiki.pages.dev/)
